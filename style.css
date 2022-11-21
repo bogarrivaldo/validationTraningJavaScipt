@@ -1,0 +1,166 @@
+body {
+    background-image: linear-gradient(to right, #E7F0FD, #ACCBEE);
+}
+
+.iconHelp {
+
+    /* background-color: lightgreen; */
+}
+
+.ihelp {
+    width: 60px;
+    height: auto;
+}
+
+.iconpiring {
+    float: right;
+    margin-top: 15px;
+    /* background-color: red; */
+
+}
+
+
+
+.iconGolapar {
+    position: absolute;
+    /* background-color: blue; */
+    margin-top: 15px;
+}
+
+.introductionText .textIntro {
+
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px rgb(152, 152, 152);
+}
+
+.introductionText {
+
+    margin-top: 130px;
+}
+
+.containerLogin {
+    background-color: white;
+    width: 250px;
+    height: 200px;
+    margin: 30px auto 0px auto;
+    border-radius: 15px;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 6px black;
+
+}
+
+.containerLogin .kotaklogin #inputUsername {
+    margin: 5px auto;
+    text-align: center;
+    border: 0px;
+    margin-top: 40px;
+    border-bottom: 1px solid rgb(146, 143, 143);
+    outline: 0ch;
+    line-height: 30px;
+
+}
+
+.containerLogin .kotaklogin #inputPassword {
+    margin: 25px auto;
+    text-align: center;
+    border: 0px;
+    margin-top: 40px;
+    border-bottom: 1px solid rgb(146, 143, 143);
+    outline: 0ch;
+    line-height: 30px;
+}
+
+.kotaklogin {
+    /* background-color: red; */
+    width: 183px;
+    margin: 10px auto;
+}
+
+.buttonLogin {
+    /* background-color: red; */
+    width: 112px;
+    margin: 55px auto 0% auto;
+
+}
+
+.buttonLogin #tombolLogin {
+
+    padding: 5px 37px 5px 37px;
+    border-radius: 15px;
+    border-color: white;
+    box-sizing: border-box;
+    box-shadow: 1px 2px 4px black;
+}
+
+.forgotPasswordBox {
+    /* background-color: red; */
+
+    margin-top: -70px;
+
+}
+
+.forgotPasswordBox .forgotPass {
+
+    margin: 0px;
+    text-align: center;
+}
+
+.introTextLogin {
+    /* background-color: red; */
+}
+
+.introTextLogin .LoginText {
+    text-align: center;
+    margin: 0em;
+    font-family: arial;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+}
+
+.garisLoginText {
+    width: 20em;
+}
+
+.SuksesLogin {
+    background-color: #25D366;
+    position: absolute;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 30%;
+    bottom: 600px;
+    display: none;
+
+}
+
+.SuksesLogin h1 {
+    color: white;
+    font-size: 15px;
+    margin: 0%;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.Belumdaftar {
+
+    background-color: red;
+    position: absolute;
+    height: 50px;
+    border-radius: 15px;
+    margin-left: 25%;
+    bottom: 600px;
+    display: none;
+
+}
+
+.Belumdaftar h1 {
+    color: white;
+    font-size: 15px;
+    margin: 0%;
+    display: inline-block;
+    line-height: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
